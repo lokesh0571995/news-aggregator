@@ -4,8 +4,8 @@
 
 1. Set up a basic Node.js project:
 
-  1. Initialize a Node.js project.
-  2. Install necessary npm packages.
+   1. Initialize a Node.js project.
+   2. Install necessary npm packages.
 
 2. Implement user registration and login:
 
